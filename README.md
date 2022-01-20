@@ -2,7 +2,7 @@
 
 This Python library can be used to analyse the contribution of each factor to portfolio performance and risk, such as return, volatility, drawdown, etc. 
 
-Factor risks are not random fluctuations of noise, instead, they are associated with exposure to specific factors.  Therefore, factor risks can not be diversified away. On the other hand, alphas are returns that are not related to known factors. Alpha risk (noise) can be reduced by increasing diversification. More strategies with positive alpha included in one portfolio, higher return to risk ratio. Alphas are usually portable and additive.
+Factor risks are not random fluctuations of noise, instead, they are associated with exposure to specific factors.  Therefore, factor risks can not be diversified away. On the other hand, alphas are returns that are not related to known factors. Alpha risk (noise) can be reduced by increasing diversification. More strategies with positive alpha included in one portfolio leads to higher return to risk ratio. Alphas are usually portable and additive.
 
 ## Factors
 
